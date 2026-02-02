@@ -52,11 +52,6 @@ pip install numpy pandas matplotlib seaborn scikit-learn jupyter
 pip install nltk spacy beautifulsoup4 requests
 ```
 
-### R Paketleri
-```R
-install.packages(c("tidyverse", "caret", "rpart", "randomForest"))
-```
-
 ## 📖 Kullanım
 
 1. Her hafta için ilgili klasöre gidin
@@ -76,7 +71,7 @@ Bu ders sonunda öğrenciler:
 
 ## 📞 İletişim ve Destek
 
-Sorularınız için dersin öğretim görevlisi ile iletişime geçebilirsiniz.
+Sorularınız için ecengil@beu.edu.tr e-posta adresiyle iletişime geçebilir veya danışmanlık saatlerinde ofisi ziyaret edebilirsiniz.
 
 ---
 **Son Güncelleme:** Şubat 2026
