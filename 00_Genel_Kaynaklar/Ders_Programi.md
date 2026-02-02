@@ -69,7 +69,6 @@
 
 ## Ofis Saatleri
 - Pazartesi: 14:00 - 16:00
-- Çarşamba: 14:00 - 16:00
 - Veya randevu ile
 
 ## Akademik Dürüstlük
@@ -80,5 +79,4 @@
 
 ## İletişim
 - E-posta: ecengil@beu.edu.tr
-- Öğrenci platformu: [LMS linki]
 - Office: K2/28
