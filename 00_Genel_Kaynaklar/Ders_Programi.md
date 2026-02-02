@@ -1,9 +1,9 @@
 # Veri Madenciliği Dersi - Detaylı Ders Programı
 
 ## Genel Bilgiler
-- **Ders Kodu:** VERİ301
-- **Kredi:** 3+2
-- **AKTS:** 6
+- **Ders Kodu:** BMU1316
+- **Kredi:** 2+2
+- **AKTS:** 5
 - **Dil:** Türkçe
 - **Seviye:** Lisans 3. Sınıf
 - **Dönem:** Bahar Dönemi
@@ -12,8 +12,8 @@
 ## Değerlendirme Kriterleri
 - Vize Sınavı: %30
 - Final Sınavı: %40
-- Ödevler ve Lab Çalışmaları: %20
-- Proje: %10
+- Ödevler ve Lab Çalışmaları: %10
+- Proje: %20
 
 ## Haftalık Program
 
@@ -45,7 +45,6 @@
 
 ### Önemli Tarihler
 - Vize Sınavı: 7. Hafta
-- Ara Proje Teslimi: 10. Hafta
 - Final Projesi Teslimi: 14. Hafta
 - Final Sınavı: Dönem sonu
 
@@ -80,6 +79,6 @@
 - İhlal durumunda disiplin cezası uygulanır
 
 ## İletişim
-- E-posta: [ders_hocasi]@universite.edu.tr
+- E-posta: ecengil@beu.edu.tr
 - Öğrenci platformu: [LMS linki]
-- Office: [Bina/Oda numarası]
+- Office: K2/28
