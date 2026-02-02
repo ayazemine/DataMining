@@ -14,9 +14,8 @@ Final projesi, dönem boyunca öğrenilen tüm veri madenciliği tekniklerinin g
 
 ## 👥 Grup Bilgileri
 
-- **Grup Büyüklüğü:** 3-4 kişi
+- **Grup Büyüklüğü:** 2-3 kişi
 - **Grup Oluşturma:** Hafta 1-2
-- **Danışmanlık:** Her grup bir asistan ile eşleştirilecek
 
 ## 📅 Proje Takvimi
 
@@ -299,9 +298,9 @@ C: Hayır ama ekstra puan kazandırabilir
 
 ## 📧 İletişim
 
-- **Koordinatör:** [Prof. Ad Soyad]
+- **Koordinatör:** ecengil@beu.edu.tr
 - **Asistanlar:** [Liste]
-- **E-posta:** [proje@universite.edu.tr]
+- **E-posta:** ecengil@beu.edu.tr]
 - **Ofis Saatleri:** Her hafta belirlenen saatler
 
 ## 🏆 Örnek Başarılı Projeler
