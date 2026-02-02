@@ -1,0 +1,21 @@
+ProductID,Product_Name,Category,Price,Rating,Reviews_Count
+1,Laptop Pro 15,Electronics,45000,4.5,1250
+2,Wireless Mouse,Electronics,350,4.2,890
+3,USB-C Cable,Electronics,120,4.0,456
+4,Office Desk,Furniture,8500,4.3,234
+5,Gaming Chair,Furniture,3200,4.7,567
+6,LED Monitor 27",Electronics,6500,4.6,890
+7,Mechanical Keyboard,Electronics,1200,4.4,678
+8,Bookshelf,Furniture,2800,4.1,123
+9,Desk Lamp,Electronics,450,4.3,345
+10,Webcam HD,Electronics,890,4.2,234
+11,Standing Desk,Furniture,12000,4.8,456
+12,Laptop Stand,Electronics,680,4.5,567
+13,Cable Organizer,Electronics,150,3.9,234
+14,File Cabinet,Furniture,4500,4.0,178
+15,Ergonomic Mouse,Electronics,580,4.6,890
+16,Headphone Stand,Electronics,320,4.1,123
+17,Desk Mat,Electronics,280,4.4,456
+18,Monitor Arm,Electronics,1850,4.7,345
+19,Drawer Unit,Furniture,3600,4.2,234
+20,Laptop Bag,Electronics,890,4.3,567

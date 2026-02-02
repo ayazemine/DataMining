@@ -1,0 +1,31 @@
+tweet_id,text,sentiment
+1,I love this product! It's amazing!,positive
+2,This is the worst experience ever.,negative
+3,Just bought a new phone today.,neutral
+4,Feeling so happy and blessed!,positive
+5,I hate waiting in long queues.,negative
+6,The weather is nice today.,neutral
+7,Best customer service I've ever had!,positive
+8,This app keeps crashing. So annoying!,negative
+9,Going to the store.,neutral
+10,Had an amazing dinner with family!,positive
+11,The traffic is terrible today.,negative
+12,Reading a book.,neutral
+13,This concert was incredible!,positive
+14,My flight got delayed again.,negative
+15,Having coffee.,neutral
+16,So excited for the weekend!,positive
+17,This restaurant has terrible food.,negative
+18,Working from home today.,neutral
+19,Just finished an amazing workout!,positive
+20,Lost my wallet. This is awful.,negative
+21,Watching TV.,neutral
+22,This movie is absolutely fantastic!,positive
+23,The service here is so slow.,negative
+24,Walking in the park.,neutral
+25,Got promoted at work! So happy!,positive
+26,This headache won't go away.,negative
+27,Drinking water.,neutral
+28,Love spending time with friends!,positive
+29,My computer broke down again.,negative
+30,Eating lunch.,neutral
