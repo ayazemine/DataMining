@@ -8,7 +8,7 @@ Bu repo, 14 haftalık Veri Madenciliği lisans dersi için hazırlanmış kapsam
 ### Haftalık Dersler (Hafta_01 - Hafta_14)
 Her hafta klasörü şunları içerir:
 - **Ders_Notlari/**: Teorik ders notları ve sunumlar
-- **Uygulama/**: Python/R kod örnekleri ve Jupyter notebook'ları
+- **Uygulama/**: Python kod örnekleri ve Jupyter notebook'ları
 - **Odevler/**: Haftalık ödevler ve alıştırmalar
 - **Veri_Setleri/**: İlgili hafta için örnek veri setleri
 - **Kaynaklar/**: Ek okuma materyalleri ve referanslar
