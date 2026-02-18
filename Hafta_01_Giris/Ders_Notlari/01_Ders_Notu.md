@@ -178,9 +178,8 @@ Temel Python veri yapıları ile pratik yapın.
 - "The CRISP-DM Model" - IBM SPSS Documentation
 
 ## 🎯 Değerlendirme Kriterleri
-- Derse katılım: %20
-- Lab çalışması: %40
-- Ödevler: %40
+- Ara Sınav: %40
+- Proje: %60
 
 ## 📺 Video Kaynakları
 - "What is Data Mining?" - StatQuest
