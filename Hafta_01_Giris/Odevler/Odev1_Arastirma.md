@@ -95,7 +95,7 @@ Raporunuz aşağıdaki bölümleri içermelidir:
 | **Toplam** | **100** | |
 
 ## 📅 Teslim Tarihi
-- **Son Tarih:** [Hafta 2 Pazartesi, 23:59]
+- **Son Tarih:** [Hafta 3 Çarşamba, 23:59]
 - **Teslim Yöntemi:** [LMS üzerinden PDF yükleme]
 - **Dosya Adı:** AdSoyad_Odev1.pdf
 
@@ -124,7 +124,7 @@ C: Evet, gerçek bir örnek vermeniz beklenmektedir.
 ## 📧 İletişim
 
 Sorularınız için:
-- E-posta: [ders_hocasi@universite.edu.tr]
+- E-posta: [ecengil@beu.edu.tr]
 - Ofis saatleri: Pazartesi 14:00-16:00
 - Forum: [LMS Forum]
 
