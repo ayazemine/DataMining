@@ -253,7 +253,7 @@ Tüm alıştırmaları tek bir Python dosyasında çözün:
 | **Toplam** | **100** | |
 
 ## 📅 Teslim Tarihi
-- **Son Tarih:** [Hafta 2 Perşembe, 23:59]
+- **Son Tarih:** [Hafta 3 Çarşamba, 23:59]
 - **Teslim Yöntemi:** [LMS üzerinden .py dosyası yükleme]
 
 ## 💡 İpuçları
