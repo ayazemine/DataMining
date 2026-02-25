@@ -55,7 +55,7 @@ Veriyi özetlemek için kullanılan temel istatistiksel metriklerdir.
 
 #### 2.3. Dağılım Şekli
 
-![Skewness Dağılımlar](https://upload.wikimedia.org/wikipedia/commons/thumb/c/cc/Relationship_between_mean_and_median_under_different_skewness.png/640px-Relationship_between_mean_and_median_under_different_skewness.png)
+![Skewness Dağılımlar](https://www.spss-yardimi.com/wp-content/uploads/2023/10/carpiklik-skewness.jpg)
 *Şekil 2: Sola Çarpık (Negatif), Simetrik ve Sağa Çarpık (Pozitif) Dağılımlar*
 
 *   **Çarpıklık (Skewness):** Dağılımın simetrisini ölçer.
