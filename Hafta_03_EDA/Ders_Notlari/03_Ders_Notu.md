@@ -76,19 +76,20 @@ Görselleştirme, sayıların anlatamadığı hikayeyi gösterir.
 **Histogram**
 *   Sürekli değişkenlerin frekans dağılımını gösterir.
 *   *Kullanım:* Veri normal dağılıyor mu? Çarpıklık var mı?
-![Histogram Örneği](https://upload.wikimedia.org/wikipedia/commons/thumb/c/c3/Histogram_of_arrivals_per_minute.svg/320px-Histogram_of_arrivals_per_minute.svg.png)
+![Histogram Örneği](https://biyoinformatik.net/images/python-histogram-seaborn-4585.png)
 
 **Box Plot (Kutu Grafiği)**
 *   Verinin 5 sayılık özetini (Min, Q1, Median, Q3, Max) ve aykırı değerleri gösterir.
 *   *Kullanım:* Gruplar arası karşılaştırma yapmak (örn: Cinsiyete göre maaş dağılımı).
-![Boxplot Yapısı](https://upload.wikimedia.org/wikipedia/commons/thumb/9/98/Boxplot_vs_PDF.svg/640px-Boxplot_vs_PDF.svg.png)
+![Boxplot Yapısı](https://biyoinformatik.net/images/python-seaborn-boxplot-234.png)
 
 **Bar Chart (Sütun Grafiği)**
 *   Kategorik verilerin frekansını gösterir.
+![Bar Graf](https://biyoinformatik.net/images/python-bar-graph-cizimi-5847.png)
 
 **Pie Chart**
 *   *Uyarı:* 5'ten fazla kategori varsa veya farklar küçükse kullanmaktan kaçının. İnsan gözü açıları kıyaslamakta zorlanır.
-
+![Pie Chart](https://biyoinformatik.net/images/python-matplotlib-pie-chart-542588-2.png)
 #### 3.2. İki Değişkenli (Bivariate) Analiz
 
 **Scatter Plot (Saçılım Grafiği)**
