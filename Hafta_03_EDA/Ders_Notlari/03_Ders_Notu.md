@@ -77,38 +77,40 @@ Görselleştirme, sayıların anlatamadığı hikayeyi gösterir.
 *   Sürekli değişkenlerin frekans dağılımını gösterir.
 *   *Kullanım:* Veri normal dağılıyor mu? Çarpıklık var mı?
 ![Histogram Örneği](https://biyoinformatik.net/images/python-histogram-seaborn-4585.png)
-
+*Şekil 3: Histogram Örneği*
 **Box Plot (Kutu Grafiği)**
 *   Verinin 5 sayılık özetini (Min, Q1, Median, Q3, Max) ve aykırı değerleri gösterir.
 *   *Kullanım:* Gruplar arası karşılaştırma yapmak (örn: Cinsiyete göre maaş dağılımı).
 ![Boxplot Yapısı](https://biyoinformatik.net/images/python-seaborn-boxplot-234.png)
-
+*Şekil 4: Boxplot Yapısı*
 **Bar Chart (Sütun Grafiği)**
 *   Kategorik verilerin frekansını gösterir.
 ![Bar Graf](https://biyoinformatik.net/images/python-bar-graph-cizimi-5847.png)
-
+*Şekil 5: Bar Grafiği*
 **Pie Chart**
 *   *Uyarı:* 5'ten fazla kategori varsa veya farklar küçükse kullanmaktan kaçının. İnsan gözü açıları kıyaslamakta zorlanır.
 ![Pie Chart](https://biyoinformatik.net/images/python-matplotlib-pie-chart-542588-2.png)
+*Şekil 6: Pasta Grafiği*
 #### 3.2. İki Değişkenli (Bivariate) Analiz
 
 **Scatter Plot (Saçılım Grafiği)**
 *   İki sayısal değişken arasındaki ilişkiyi noktalarla gösterir.
 *   *Kullanım:* Korelasyon var mı? İlişki doğrusal mı?
 ![Scatter Plot Örneği](https://sisterslab.org/wp-content/uploads/2021/04/scatter.png)
-
+*Şekil 7: Scatter Plot*
 **Heatmap (Isı Haritası)**
 *   Değerlerin büyüklüğünü renklerle ifade eder. Genellikle Korelasyon Matrisini görselleştirmek için kullanılır.
 ![Heatmap Örneği](https://upload.wikimedia.org/wikipedia/commons/thumb/a/a4/Correlogram_mtcars.png/600px-Correlogram_mtcars.png)
-
+*Şekil 8: Heatmap*
 **Line Plot**
 *   Zaman serilerinde değişimi (trend) görmek için kullanılır.
 ![Line Plot](https://sisterslab.org/wp-content/uploads/2021/04/yoldangecen_arac.png)
-
+*Şekil 9: Çizgi Grafiği*
 ### 4. Korelasyon Analizi
 
 İki değişken arasındaki ilişkinin yönünü ve şiddetini ölçer.
-
+![korelasyon analizi](https://webcdn.getmidas.com/uploads/2025/01/21173130/korelasyon-cesitleri-1024x518.webp)
+*Şekil 10: Korelasyon Analizi*
 *   **Pearson Korelasyon Katsayısı ($r$):** Doğrusal ilişkiyi ölçer.
     *   Prosedür: Veriler normal dağılmalı ve ilişki lineer olmalı.
     *   Değer: -1 (Tam negatif) ile +1 (Tam pozitif) arasında.
@@ -117,7 +119,7 @@ Görselleştirme, sayıların anlatamadığı hikayeyi gösterir.
     *   Prosedür: Doğrusal olmayan ama monoton (biri artarken diğeri de artan/azalan) ilişkilerde veya outlier olduğunda kullanılır.
 
 ![Korelasyon Tipleri](https://upload.wikimedia.org/wikipedia/commons/thumb/d/d4/Correlation_examples2.svg/600px-Correlation_examples2.svg.png)
-*Şekil 3: Pozitif, Negatif ve İlişkisiz Durumlar*
+*Şekil 11: Pozitif, Negatif ve İlişkisiz Durumlar*
 
 > ⚠️ **Önemli:** Korelasyon, nedensellik (causation) anlamına gelmez! Dondurma satışları ile boğulma vakaları yüksek korelasyonludur ama sebebi "Sıcaklık"tır.
 
@@ -131,7 +133,9 @@ Verinin genel karakterine uymayan gözlemlerdir.
 Boxplot mantığına dayanır. Dağılımdan bağımsızdır (Non-parametric).
 *   **Alt Sınır:** $Q1 - 1.5 \times IQR$
 *   **Üst Sınır:** $Q3 + 1.5 \times IQR$
-
+*   
+ ![IQR yöntemi](https://miro.medium.com/v2/resize:fit:720/format:webp/1*mREh-ezRvVaVjFYJgJTHpw.png)
+*Şekil 12: IQR Yöntemi*
 **2. Z-Score Yöntemi**
 Veri normal dağılıyorsa kullanılır.
 *   Eğer bir veri noktasının Z-skoru (Ortalamadan kaç standart sapma uzakta olduğu) $|Z| > 3$ ise aykırı kabul edilir.
