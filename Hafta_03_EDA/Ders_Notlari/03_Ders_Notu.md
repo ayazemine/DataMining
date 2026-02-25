@@ -95,7 +95,7 @@ Görselleştirme, sayıların anlatamadığı hikayeyi gösterir.
 **Scatter Plot (Saçılım Grafiği)**
 *   İki sayısal değişken arasındaki ilişkiyi noktalarla gösterir.
 *   *Kullanım:* Korelasyon var mı? İlişki doğrusal mı?
-![Scatter Plot Örneği](https://upload.wikimedia.org/wikipedia/commons/thumb/a/a2/Scatter_plot.jpg/640px-Scatter_plot.jpg)
+![Scatter Plot Örneği](https://sisterslab.org/wp-content/uploads/2021/04/scatter.png)
 
 **Heatmap (Isı Haritası)**
 *   Değerlerin büyüklüğünü renklerle ifade eder. Genellikle Korelasyon Matrisini görselleştirmek için kullanılır.
@@ -103,6 +103,7 @@ Görselleştirme, sayıların anlatamadığı hikayeyi gösterir.
 
 **Line Plot**
 *   Zaman serilerinde değişimi (trend) görmek için kullanılır.
+![Line Plot](https://sisterslab.org/wp-content/uploads/2021/04/yoldangecen_arac.png)
 
 ### 4. Korelasyon Analizi
 
