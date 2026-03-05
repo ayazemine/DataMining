@@ -112,6 +112,8 @@ Gain(S, A) = Entropy(S) - Σ (|S_v|/|S|) × Entropy(S_v)
 **Örnek Hesaplama:**
 
 Dataset:
+(img width="298" height="279" alt="image" src="https://github.com/user-attachments/assets/64d5a6fe-c033-436f-8128-d01126f1492f" /)
+
 ```
 Day  Outlook  Temp   Humidity  Wind   PlayTennis
 D1   Sunny    Hot    High      Weak   No
