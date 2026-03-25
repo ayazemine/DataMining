@@ -203,6 +203,36 @@ grid_search.fit(X_train, y_train)
   - Demo (varsa)
   - Sonuçlar ve gelecek çalışmalar
 
+## 📏 Proje Sunum Değerlendirme Ölçeği (100 Puan)
+
+Bu ölçek, yalnızca final sunum performansını değerlendirmek için kullanılır.
+
+| Kategori | Puan | Değerlendirme Ölçütü |
+|----------|------|----------------------|
+| **1. Problem Tanımı ve Motivasyon** | **10** | Problemin netliği, gerçek dünya bağlantısı, neden önemli olduğu |
+| **2. Literatür ve Arka Plan** | **8** | İlgili çalışmaların doğru özeti, yöntem seçiminin gerekçelendirilmesi |
+| **3. Veri Seti ve Ön İşleme** | **12** | Veri kaynağı, veri kalitesi, eksik/aykırı değer işlemleri, öznitelik hazırlığı |
+| **4. Yöntem ve Modelleme Süreci** | **15** | Kullanılan algoritmaların doğruluğu, teknik açıklama seviyesi, pipeline tutarlılığı |
+| **5. Deney Tasarımı ve Değerlendirme** | **15** | Metrik seçimi, karşılaştırma adaleti, cross-validation/hiperparametre yaklaşımı |
+| **6. Sonuçların Yorumlanması** | **12** | Bulguların anlamlı yorumu, hata analizi, güçlü-zayıf yönlerin tartışılması |
+| **7. Görselleştirme ve Sunum Materyali** | **10** | Grafik/tabloların okunabilirliği, slayt düzeni, görsel kalite |
+| **8. Sunum Becerisi ve Zaman Yönetimi** | **10** | Akıcılık, anlaşılır anlatım, süreyi etkili kullanma |
+| **9. Soru-Cevap Performansı** | **8** | Sorulara teknik doğrulukla yanıt verebilme, savunma gücü |
+| **Toplam** | **100** | |
+
+### Notlandırma Rehberi (Kategori Bazında)
+
+- **90-100 (Mükemmel):** Teknik olarak çok güçlü, tutarlı, profesyonel sunum.
+- **75-89 (İyi):** Küçük eksiklere rağmen genel olarak başarılı ve anlaşılır.
+- **60-74 (Orta):** Temel gereksinimler sağlanmış, ancak teknik/yorum derinliği sınırlı.
+- **0-59 (Geliştirilmeli):** Ciddi içerik, yöntem veya anlatım eksikleri mevcut.
+
+### Kesinti Kriterleri (Uygulanırsa)
+
+- Süre sınırını belirgin aşma: **-5 puana kadar**
+- Kaynak/veri seti atfı yapmama: **-5 puana kadar**
+- Çalışmayan veya doğrulanamayan sonuç sunma: **-10 puana kadar**
+
 ## 💻 Kod Teslimi
 
 ### Gereksinimler
